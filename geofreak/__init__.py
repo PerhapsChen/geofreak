@@ -3,6 +3,7 @@ __version__ = '1.0'
 from .format import *
 from .stats import *
 from .generator import *
+from .plot import *
 
 
 
